@@ -2,5 +2,5 @@
 
 Auto-generated JSON descriptors with buf.validate annotations.
 
-Generated: 2025-11-19 09:25:27 UTC
-Commit: e1cf137c4cc5ab55a4ef3a2cf2e543512f5de1b3
+Generated: 2025-11-26 09:42:45 UTC
+Commit: 522c9a47c189e8b7273e47ec6514459cfa86b908
